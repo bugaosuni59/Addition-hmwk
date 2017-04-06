@@ -1,0 +1,1092 @@
+Symbol	Scientific Name	Common Name	Fact Sheets	Plant Guides
+ABAM	Abies amabilis	Pacific silver fir	 	doc pdf
+ABBA	Abies balsamea	balsam fir	doc pdf	 
+ABCO	Abies concolor	white fir	doc pdf	doc pdf
+ABGR	Abies grandis	grand fir	 	doc pdf
+ABLA	Abies lasiocarpa	subalpine fir	 	doc pdf
+ABFR3	Abutilon fruticosum	Texas Indian mallow	doc pdf	 
+ACKO	Acacia koa	koa	doc pdf	 
+ACKO2	Acacia koaia	koaoha	doc pdf	 
+ACAN11	Acaciella angustissima	prairie acacia	 	 
+ACAN	Acacia angustissima		doc pdf	 
+ACANH2	Acaciella angustissima var. hirta	prairie acacia	 	 
+ACANH	Acacia angustissima var. hirta		 	doc pdf
+ACCI	Acer circinatum	vine maple	 	doc pdf
+ACGI	Acer ginnala	Amur maple	 	doc pdf
+ACGL	Acer glabrum	Rocky Mountain maple	 	doc pdf
+ACMA3	Acer macrophyllum	bigleaf maple	 	doc pdf
+ACNE2	Acer negundo	boxelder	 	doc pdf
+ACRU	Acer rubrum	red maple	doc pdf	doc pdf
+ACSA2	Acer saccharinum	silver maple	doc pdf	doc pdf
+ACSA3	Acer saccharum	sugar maple	 	doc pdf
+ACMI2	Achillea millefolium	common yarrow	doc pdf	doc pdf
+ACMIO	Achillea millefolium var. occidentalis	western yarrow	doc pdf	doc pdf
+ACHY	Achnatherum hymenoides	Indian ricegrass	 	doc pdf
+ACLE8	Achnatherum lemmonii	Lemmon's needlegrass	doc pdf	 
+ACNE9	Achnatherum nelsonii	Columbia needlegrass	 	doc pdf
+ACOC3	Achnatherum occidentale	western needlegrass	 	doc pdf
+ACSP12	Achnatherum speciosum	desert needlegrass	doc pdf	 
+ACTH7	Achnatherum thurberianum	Thurber's needlegrass	 	doc pdf
+ACSP3	Achyranthes splendens	Maui chaff flower	doc pdf	 
+ACCA4	Acorus calamus	calamus	doc pdf	 
+AEAM	Aeschynomene americana	shyleaf	doc pdf	 
+AECA	Aesculus californica	California buckeye	 	doc pdf
+AEGL	Aesculus glabra	Ohio buckeye	 	doc pdf
+AGSC	Agastache scrophulariifolia	purple giant hyssop	doc pdf	doc pdf
+AGGR	Agoseris grandiflora	bigflower agoseris	 	doc pdf
+AGHE2	Agoseris heterophylla	annual agoseris	 	doc pdf
+AGCR	Agropyron cristatum	crested wheatgrass	doc pdf	doc pdf
+AGDE2	Agropyron desertorum	desert wheatgrass	doc pdf	doc pdf
+AGFR	Agropyron fragile	Siberian wheatgrass	doc pdf	doc pdf
+AGEX	Agrostis exarata	spike bentgrass	doc pdf	 
+AGGI2	Agrostis gigantea	redtop	doc pdf	doc pdf
+ALSU	Alisma subcordatum	American water plantain	doc pdf	 
+ALBIB	Allium bisceptrum var. bisceptrum	twincrest onion	 	doc pdf
+ALHY	Allium hyalinum	glassy onion	 	doc pdf
+ALUN	Allium unifolium	oneleaf onion	 	doc pdf
+ALGL2	Alnus glutinosa	European alder	doc pdf	 
+ALIN2	Alnus incana	gray alder	 	doc pdf
+ALINR	Alnus incana ssp. rugosa	speckled alder	 	doc pdf
+ALRU2	Alnus rubra	red alder	 	doc pdf
+ALSE2	Alnus serrulata	hazel alder	doc pdf	 
+ALVIS	Alnus viridis ssp. sinuata	Sitka alder	doc pdf	doc pdf
+ALAR	Alopecurus arundinaceus	creeping meadow foxtail	 	doc pdf
+ALDE	Alyssum desertorum	desert madwort	doc pdf	 
+AMAL2	Amelanchier alnifolia	Saskatoon serviceberry	 	doc pdf
+AMALS	Amelanchier alnifolia var. semiintegrifolia	Saskatoon serviceberry	doc pdf	doc pdf
+AMAR3	Amelanchier arborea	common serviceberry	 	doc pdf
+AMCA4	Amelanchier canadensis	Canadian serviceberry	 	doc pdf
+AMUT	Amelanchier utahensis	Utah serviceberry	doc pdf	doc pdf
+AMBR	Ammophila breviligulata	American beachgrass	doc pdf	doc pdf
+AMCA6	Amorpha canescens	leadplant	doc pdf	doc pdf
+AMFR	Amorpha fruticosa	false indigo bush	 	doc pdf
+AMBR2	Amphicarpaea bracteata	American hogpeanut	 	doc pdf
+AMMU2	Amphicarpum muehlenbergianum	Muhlenberg maidencane	 	doc pdf
+ANCA4	Andropogon capillipes	chalky bluestem	 	doc pdf
+ANGE	Andropogon gerardii	big bluestem	doc pdf	doc pdf
+ANGL2	Andropogon glomeratus	bushy bluestem	 	doc pdf
+ANGYG	Andropogon gyrans var. gyrans	Elliott's bluestem	 	doc pdf
+ANHA	Andropogon hallii	sand bluestem	doc pdf	doc pdf
+ANTE2	Andropogon ternarius	splitbeard bluestem	doc pdf	doc pdf
+ANVI2	Andropogon virginicus	broomsedge bluestem	doc pdf	doc pdf
+ANCA10	Anemopsis californica	yerba mansa	 	doc pdf
+ANVI4	Anthaenantia villosa	green silkyscale	doc pdf	 
+APAM	Apios americana	groundnut	 	doc pdf
+APCA	Apocynum cannabinum	Indianhemp	 	doc pdf
+AQCA	Aquilegia canadensis	red columbine	 	doc pdf
+ARME	Arbutus menziesii	Pacific madrone	 	doc pdf
+ARHU3	Arctomecon humilis	common bearpoppy	 	doc pdf
+ARCO3	Arctostaphylos columbiana	hairy manzanita	 	doc pdf
+ARNE	Arctostaphylos nevadensis	pinemat manzanita	 	doc pdf
+ARPA6	Arctostaphylos patula	greenleaf manzanita	 	doc pdf
+ARUV	Arctostaphylos uva-ursi	kinnikinnick	doc pdf	 
+ARVI4	Arctostaphylos viscida	sticky whiteleaf manzanita	 	doc pdf
+ARALT	Argemone albiflora ssp. texana	bluestem pricklypoppy	doc pdf	doc pdf
+AREG	Argentina egedii	Pacific silverweed	 	doc pdf
+AROL	Aristida oligantha	prairie threeawn	doc pdf	 
+ARPU8	Aristida purpurascens	arrowfeather threeawn	doc pdf	 
+ARPU9	Aristida purpurea	purple threeawn	 	doc pdf
+ARPUW	Aristida purpurea var. wrightii	Wright's threeawn	doc pdf	 
+ARRH	Aristida rhizomophora	Florida threeawn	doc pdf	 
+ARST5	Aristida stricta	pineland threeawn	doc pdf	 
+ARME6	Aronia melanocarpa	black chokeberry	 	doc pdf
+AREL3	Arrhenatherum elatius	tall oatgrass	doc pdf	 
+ARAR8	Artemisia arbuscula	little sagebrush	 	doc pdf
+ARCA11	Artemisia californica	coastal sagebrush	 	doc pdf
+ARCAC	Artemisia campestris ssp. caudata	field sagewort	 	doc pdf
+ARDO3	Artemisia douglasiana	Douglas' sagewort	 	doc pdf
+ARDR4	Artemisia dracunculus	tarragon	 	doc pdf
+ARFR4	Artemisia frigida	prairie sagewort	doc pdf	doc pdf
+ARLU	Artemisia ludoviciana	white sagebrush	 	doc pdf
+ARNO4	Artemisia nova	black sagebrush	 	doc pdf
+ARTR2	Artemisia tridentata	big sagebrush	doc pdf	doc pdf
+ARTRP2	Artemisia tridentata ssp. parishii	big sagebrush	 	doc pdf
+ARTRS2	Artemisia tridentata ssp. spiciformis	big sagebrush	 	doc pdf
+ARTRT	Artemisia tridentata ssp. tridentata	basin big sagebrush	 	doc pdf
+ARTRV	Artemisia tridentata ssp. vaseyana	mountain big sagebrush	 	doc pdf
+ARTRW8	Artemisia tridentata ssp. wyomingensis	Wyoming big sagebrush	 	doc pdf
+ARTRX	Artemisia tridentata ssp. xericensis	big sagebrush	 	doc pdf
+ARGI	Arundinaria gigantea	giant cane	doc pdf	doc pdf
+ARTE4	Arundinaria tecta	switchcane	 	 
+ARGIT8	Arundinaria gigantea ssp. tecta		doc pdf	 
+ASCA	Asarum canadense	Canadian wildginger	 	doc pdf
+ASCO	Asclepias cordifolia	heartleaf milkweed	 	doc pdf
+ASFA	Asclepias fascicularis	Mexican whorled milkweed	 	doc pdf
+ASIN	Asclepias incarnata	swamp milkweed	doc pdf	 
+ASME	Asclepias meadii	Mead's milkweed	 	doc pdf
+ASSP	Asclepias speciosa	showy milkweed	doc pdf	doc pdf
+ASSY	Asclepias syriaca	common milkweed	 	doc pdf
+ASTU	Asclepias tuberosa	butterfly milkweed	 	doc pdf
+ASVE2	Asclepias vestita	woolly milkweed	 	doc pdf
+ASVI2	Asclepias viridis	green antelopehorn	 	doc pdf
+ASWE3	Asclepias welshii	Welsh's milkweed	 	doc pdf
+ASTR	Asimina triloba	pawpaw	 	doc pdf
+ASAN7	Astragalus anserinus	Goose Creek milkvetch	 	doc pdf
+ASCA11	Astragalus canadensis	Canadian milkvetch	doc pdf	doc pdf
+ASCAB	Astragalus canadensis var. brevidens	shorttooth Canadian milkvetch	 	doc pdf
+ASCI4	Astragalus cicer	chickpea milkvetch	 	doc pdf
+ASCUP	Astragalus cusickii var. packardiae	Packard's milkvetch	 	doc pdf
+ASDE2	Astragalus desereticus	deseret milkvetch	 	doc pdf
+ASER4	Astragalus eremiticus	hermit milkvetch	 	 
+ASAM14	Astragalus ampullarioides		 	doc pdf
+ASHO5	Astragalus holmgreniorum	Paradox milkvetch	 	doc pdf
+ASHU	Astragalus humillimus	Mancos milkvetch	doc pdf	doc pdf
+ASLIM	Astragalus limnocharis var. montii	Monti's milkvetch	 	doc pdf
+ASOS	Astragalus osterhoutii	Kremmling milkvetch	doc pdf	doc pdf
+ATAC	Atriplex acanthocarpa	tubercled saltbush	 	doc pdf
+ATCA2	Atriplex canescens	fourwing saltbush	doc pdf	doc pdf
+ATCO	Atriplex confertifolia	shadscale saltbush	 	doc pdf
+ATLE	Atriplex lentiformis	big saltbush	 	doc pdf
+AVST2	Avena strigosa	black oats	 	doc pdf
+AVGE	Avicennia germinans	black mangrove	doc pdf	doc pdf
+AXFI	Axonopus fissifolius	common carpetgrass	doc pdf	 
+BAHA	Baccharis halimifolia	eastern baccharis	doc pdf	doc pdf
+BAPI	Baccharis pilularis	coyotebrush	 	doc pdf
+BAHO	Balsamorhiza hookeri	Hooker's balsamroot	 	doc pdf
+BAMA4	Balsamorhiza macrophylla	cutleaf balsamroot	 	doc pdf
+BASA3	Balsamorhiza sagittata	arrowleaf balsamroot	 	doc pdf
+BAAU	Baptisia australis	blue wild indigo	 	doc pdf
+BATI	Baptisia tinctoria	horseflyweed	doc pdf	 
+BAPR5	Bassia prostrata	forage kochia	 	doc pdf
+BASC5	Bassia scoparia	burningbush	doc pdf	doc pdf
+KOSC	Kochia scoparia		doc pdf	doc pdf
+BESY	Beckmannia syzigachne	American sloughgrass	doc pdf	doc pdf
+BEIN2	Berteroa incana	hoary alyssum	doc pdf	 
+BEAL2	Betula alleghaniensis	yellow birch	 	doc pdf
+BENI	Betula nigra	river birch	doc pdf	doc pdf
+BEOC2	Betula occidentalis	water birch	 	doc pdf
+BEPA	Betula papyrifera	paper birch	 	doc pdf
+BEPO	Betula populifolia	gray birch	doc pdf	doc pdf
+BIAR	Bidens aristosa	bearded beggarticks	doc pdf	 
+BICA	Bignonia capreolata	crossvine	 	doc pdf
+BOMA7	Bolboschoenus maritimus	cosmopolitan bulrush	 	 
+SCMA8	Schoenoplectus maritimus		 	doc pdf
+BORO5	Bolboschoenus robustus	sturdy bulrush	 	 
+SCRO5	Schoenoplectus robustus		 	doc pdf
+BOHI	Bommeria hispida	copper fern	doc pdf	 
+BOBA3	Bothriochloa barbinodis	cane bluestem	doc pdf	doc pdf
+BOBL	Bothriochloa bladhii	Caucasian bluestem	doc pdf	 
+BOSA	Bothriochloa saccharoides	silver bluestem	doc pdf	 
+BOBR	Bouteloua breviseta	gypsum grama	doc pdf	 
+BOCU	Bouteloua curtipendula	sideoats grama	doc pdf	doc pdf
+BOCUC	Bouteloua curtipendula var. caespitosa	sideoats grama	 	doc pdf
+BODA2	Bouteloua dactyloides	buffalograss	 	doc pdf
+BUDA	Buchloe dactyloides		doc pdf	 
+BOER4	Bouteloua eriopoda	black grama	doc pdf	 
+BOGR2	Bouteloua gracilis	blue grama	doc pdf	doc pdf
+BOHI2	Bouteloua hirsuta	hairy grama	doc pdf	 
+BOTR2	Bouteloua trifida	red grama	doc pdf	 
+BRRAR	Brassica rapa var. rapa	field mustard	 	doc pdf
+BRCO3	Brodiaea coronaria	crown brodiaea	 	doc pdf
+BRAR5	Bromus arvensis	field brome	doc pdf	 
+BRBI2	Bromus biebersteinii	meadow brome	 	doc pdf
+BRCA5	Bromus carinatus	California brome	doc pdf	doc pdf
+BRHOH	Bromus hordeaceus ssp. hordeaceus	soft brome	 	doc pdf
+BRIN2	Bromus inermis	smooth brome	doc pdf	 
+BRMA4	Bromus marginatus	mountain brome	 	doc pdf
+BRTE	Bromus tectorum	cheatgrass	 	doc pdf
+BRVU	Bromus vulgaris	Columbia brome	doc pdf	 
+BUDA2	Buddleja davidii	orange eye butterflybush	doc pdf	 
+CACA27	Cajanus cajan	pigeonpea	 	doc pdf
+CACA4	Calamagrostis canadensis	bluejoint	doc pdf	doc pdf
+CAGI3	Calamovilfa gigantea	giant sandreed	doc pdf	doc pdf
+CALO	Calamovilfa longifolia	prairie sandreed	doc pdf	doc pdf
+CACI2	Calandrinia ciliata	fringed redmaids	 	doc pdf
+CAAM2	Callicarpa americana	American beautyberry	doc pdf	doc pdf
+CADE27	Calocedrus decurrens	incense cedar	 	doc pdf
+CALU9	Calochortus luteus	yellow mariposa lily	 	doc pdf
+CASU3	Calochortus superbus	yellow mariposa	 	doc pdf
+CAVE3	Calochortus venustus	butterfly mariposa lily	 	doc pdf
+CASE12	Calylophus serrulatus	yellow sundrops	doc pdf	 
+CAQUB2	Camassia quamash ssp. breviflora	small camas	 	doc pdf
+CAQUQ	Camassia quamash ssp. quamash	small camas	 	doc pdf
+CASA2	Camelina sativa	false flax	 	doc pdf
+CARA2	Campsis radicans	trumpet creeper	 	doc pdf
+CAEN4	Canavalia ensiformis	jack bean	 	doc pdf
+CAAR18	Caragana arborescens	Siberian peashrub	 	doc pdf
+CAAQ	Carex aquatilis	water sedge	 	doc pdf
+CABA4	Carex barbarae	Santa Barbara sedge	 	doc pdf
+CANE2	Carex nebrascensis	Nebraska sedge	doc pdf	doc pdf
+CAOB3	Carex obnupta	slough sedge	 	doc pdf
+CASP35	Carex specicola	Navajo sedge	 	 
+CASP9	Carex specuicola		 	doc pdf
+CAVU2	Carex vulpinoidea	fox sedge	 	doc pdf
+CAGI10	Carnegiea gigantea	saguaro	 	 
+CAGI7	Carnegia gigantea		 	doc pdf
+CACA18	Carpinus caroliniana	American hornbeam	doc pdf	doc pdf
+CAIL2	Carya illinoinensis	pecan	doc pdf	doc pdf
+CALA21	Carya laciniosa	shellbark hickory	 	doc pdf
+CAPU9	Castanea pumila	chinquapin	doc pdf	doc pdf
+CACH19	Castilleja christii	Christ's Indian paintbrush	 	doc pdf
+CABI8	Catalpa bignonioides	southern catalpa	doc pdf	doc pdf
+CASP8	Catalpa speciosa	northern catalpa	doc pdf	doc pdf
+CEAM	Ceanothus americanus	New Jersey tea	doc pdf	doc pdf
+CECO	Ceanothus cordulatus	whitethorn ceanothus	 	doc pdf
+CECU	Ceanothus cuneatus	buckbrush	 	doc pdf
+CEFL4	Ceanothus ¡Áflexilis	flexible ceanothus	 	doc pdf
+CEHE	Ceanothus herbaceus	Jersey tea	 	doc pdf
+CESC	Celastrus scandens	American bittersweet	doc pdf	doc pdf
+CELA	Celtis laevigata	sugarberry	doc pdf	doc pdf
+CEOC	Celtis occidentalis	common hackberry	doc pdf	doc pdf
+CESP4	Cenchrus spinifex	coastal sandbur	doc pdf	 
+CESO3	Centaurea solstitialis	yellow star-thistle	 	doc pdf
+CEST8	Centaurea stoebe	spotted knapweed	 	doc pdf
+CEOC2	Cephalanthus occidentalis	common buttonbush	doc pdf	doc pdf
+CECA4	Cercis canadensis	eastern redbud	doc pdf	doc pdf
+CEOR9	Cercis orbiculata	California redbud	doc pdf	doc pdf
+CHDO	Chaenactis douglasii	Douglas' dustymaiden	 	doc pdf
+CHFA2	Chamaecrista fasciculata	partridge pea	doc pdf	doc pdf
+CHNI2	Chamaecrista nictitans	sensitive partridge pea	 	doc pdf
+CHTH2	Chamaecyparis thyoides	Atlantic white cedar	doc pdf	doc pdf
+CHCA2	Chamaedaphne calyculata	leatherleaf	 	doc pdf
+CHAN9	Chamerion angustifolium	fireweed	 	doc pdf
+CHLA5	Chasmanthium latifolium	Indian woodoats	doc pdf	doc pdf
+CHOA	Chenopodium oahuense	alaweo	doc pdf	 
+CHLI2	Chilopsis linearis	desert willow	 	doc pdf
+CHCU2	Chloris cucullata	hooded windmill grass	doc pdf	 
+CHVE2	Chloris verticillata	tumble windmill grass	doc pdf	 
+CHPO3	Chlorogalum pomeridianum	wavyleaf soap plant	 	doc pdf
+CHJU	Chondrilla juncea	rush skeletonweed	 	doc pdf
+CHVI8	Chrysothamnus viscidiflorus	yellow rabbitbrush	 	doc pdf
+CIDI	Cirsium discolor	field thistle	doc pdf	 
+CLAM	Clarkia amoena	farewell to spring	doc pdf	 
+CLFR	Clematis fremontii	Fremont's leather flower	doc pdf	doc pdf
+CLLI2	Clematis ligusticifolia	western white clematis	 	doc pdf
+CLIS	Cleome isomeris	bladderpod spiderflower	 	doc pdf
+CLLU2	Cleome lutea	yellow spiderflower	 	doc pdf
+CLAL3	Clethra alnifolia	coastal sweetpepperbush	 	doc pdf
+COCY	Coelorachis cylindrica	cylinder jointtail grass	doc pdf	 
+COES	Colocasia esculenta	coco yam	 	doc pdf
+COER	Commelina erecta	whitemouth dayflower	 	doc pdf
+COERA	Commelina erecta var. angustifolia	whitemouth dayflower	doc pdf	doc pdf
+COPE80	Comptonia peregrina	sweet fern	doc pdf	 
+COCO13	Conoclinium coelestinum	blue mistflower	doc pdf	 
+COCA5	Conyza canadensis	Canadian horseweed	 	doc pdf
+COLA5	Coreopsis lanceolata	lanceleaf tickseed	doc pdf	 
+COTI3	Coreopsis tinctoria	golden tickseed	doc pdf	 
+COAM2	Cornus amomum	silky dogwood	doc pdf	 
+COFL2	Cornus florida	flowering dogwood	doc pdf	doc pdf
+COFO	Cornus foemina	stiff dogwood	doc pdf	 
+CORA6	Cornus racemosa	gray dogwood	doc pdf	 
+COSE16	Cornus sericea	redosier dogwood	 	doc pdf
+COSEO	Cornus sericea ssp. occidentalis	western dogwood	 	doc pdf
+COSES	Cornus sericea ssp. sericea	redosier dogwood	doc pdf	doc pdf
+COAM3	Corylus americana	American hazelnut	 	doc pdf
+COCO6	Corylus cornuta	beaked hazelnut	 	doc pdf
+COCOC	Corylus cornuta var. californica	California hazelnut	doc pdf	 
+COIN16	Cotoneaster integerrimus	cotoneaster	 	doc pdf
+CRAE	Crataegus aestivalis	may hawthorn	doc pdf	doc pdf
+CRAN6	Crataegus ¡Áanomala	Arnold hawthorn	 	doc pdf
+CRBE2	Crataegus berberifolia	barberry hawthorn	 	doc pdf
+CRBR3	Crataegus brainerdii	Brainerd's hawthorn	 	doc pdf
+CRCA	Crataegus calpodendron	pear hawthorn	 	doc pdf
+CRCH	Crataegus chrysocarpa	fireberry hawthorn	 	doc pdf
+CRCO2	Crataegus coccinioides	Kansas hawthorn	doc pdf	doc pdf
+CRCR2	Crataegus crus-galli	cockspur hawthorn	 	doc pdf
+CRDO2	Crataegus douglasii	black hawthorn	 	doc pdf
+CRER	Crataegus erythropoda	cerro hawthorn	 	doc pdf
+CRFL	Crataegus flabellata	fanleaf hawthorn	 	doc pdf
+CRFL2	Crataegus flava	yellowleaf hawthorn	 	doc pdf
+CRIN3	Crataegus intricata	Copenhagen hawthorn	 	doc pdf
+CROP	Crataegus opaca	western mayhaw	doc pdf	 
+CRAC2	Crepis acuminata	tapertip hawksbeard	 	doc pdf
+CRIN4	Crepis intermedia	limestone hawksbeard	 	doc pdf
+CRJU	Crotalaria juncea	sunn hemp	 	doc pdf
+CTAR	Ctenium aromaticum	toothache grass	doc pdf	 
+CYHUJ	Cycladenia humilis var. jonesii	Jones' waxydogbane	 	doc pdf
+CYACA2	Cylindropuntia acanthocarpa var. acanthocarpa	buckhorn cholla	 	 
+OPAC	Opuntia acanthocarpa		 	doc pdf
+CYDA	Cynodon dactylon	Bermudagrass	doc pdf	 
+CYER	Cyperus eragrostis	tall flatsedge	 	doc pdf
+CYRO	Cyperus rotundus	nutgrass	 	doc pdf
+DAGL	Dactylis glomerata	orchardgrass	doc pdf	doc pdf
+DACA7	Dalea candida	white prairie clover	doc pdf	doc pdf
+DAOR2	Dalea ornata	Blue Mountain prairie clover	doc pdf	doc pdf
+DAPU5	Dalea purpurea	purple prairie clover	doc pdf	doc pdf
+DAPUP	Dalea purpurea var. purpurea	purple prairie clover	doc pdf	 
+DASE3	Dalea searlsiae	Searls' prairie clover	 	doc pdf
+DAVI	Dalea villosa	silky prairie clover	 	doc pdf
+DACA3	Danthonia californica	California oatgrass	doc pdf	doc pdf
+DAPU3	Daucus pusillus	American wild carrot	 	doc pdf
+DECE	Deschampsia cespitosa	tufted hairgrass	doc pdf	 
+DECA18	Deschampsia caespitosa		 	doc pdf
+DEDA	Deschampsia danthonioides	annual hairgrass	doc pdf	 
+DEEL	Deschampsia elongata	slender hairgrass	doc pdf	 
+DEIL	Desmanthus illinoensis	Illinois bundleflower	doc pdf	doc pdf
+DEVE2	Desmanthus velutinus	velvet bundleflower	doc pdf	 
+DEVI3	Desmanthus virgatus	wild tantan	 	doc pdf
+DECA7	Desmodium canadense	showy ticktrefoil	doc pdf	doc pdf
+DECI	Desmodium ciliare	hairy small-leaf ticktrefoil	doc pdf	 
+DEGL4	Desmodium glabellum	Dillenius' ticktrefoil	doc pdf	doc pdf
+DEPA6	Desmodium paniculatum	panicledleaf ticktrefoil	doc pdf	doc pdf
+DETR4	Desmodium triflorum	threeflower ticktrefoil	 	doc pdf
+DICL	Dichanthelium clandestinum	deertongue	doc pdf	 
+DIOLS	Dichanthelium oligosanthes var. scribnerianum	Scribner's rosette grass	 	 
+PASC5	Panicum scribnerianum		doc pdf	 
+DISC3	Dichanthelium scoparium	velvet panicum	doc pdf	doc pdf
+DICA14	Dichelostemma capitatum	bluedicks	 	doc pdf
+DICAC5	Dichelostemma capitatum ssp. capitatum	bluedicks	 	doc pdf
+DICAP	Dichelostemma capitatum ssp. pauciflorum	bluedicks	 	doc pdf
+DICA8	Digitaria californica	Arizona cottontop	doc pdf	 
+DICO6	Digitaria cognata	fall witchgrass	doc pdf	 
+DIVI5	Diospyros virginiana	common persimmon	 	doc pdf
+DISP	Distichlis spicata	saltgrass	doc pdf	doc pdf
+DOVI	Dodonaea viscosa	Florida hopbush	doc pdf	 
+DRAM	Dracopis amplexicaulis	clasping coneflower	doc pdf	 
+ECAN2	Echinacea angustifolia	blacksamson echinacea	 	doc pdf
+ECPA	Echinacea pallida	pale purple coneflower	doc pdf	doc pdf
+ECPU	Echinacea purpurea	eastern purple coneflower	doc pdf	doc pdf
+ECSA	Echinacea sanguinea	sanguine purple coneflower	 	doc pdf
+ECES	Echinochloa esculenta	Japanese millet	 	doc pdf
+ECFR	Echinochloa frumentacea	billion-dollar grass	doc pdf	 
+ECCO3	Echinodorus cordifolius	creeping burhead	doc pdf	 
+ECVU	Echium vulgare	common viper's bugloss	 	doc pdf
+ELCO	Elaeagnus commutata	silverberry	 	doc pdf
+ELPA3	Eleocharis palustris	common spikerush	doc pdf	doc pdf
+ELCA4	Elymus canadensis	Canada wildrye	doc pdf	doc pdf
+ELDA3	Elymus dahuricus	Dahurian wild rye	 	doc pdf
+ELEL5	Elymus elymoides	squirreltail	 	doc pdf
+ELELB2	Elymus elymoides ssp. brevifolius	squirreltail	doc pdf	 
+ELGL3	Elymus glabriflorus	southeastern wildrye	 	doc pdf
+ELGL	Elymus glaucus	blue wildrye	 	doc pdf
+ELHO3	Elymus hoffmannii	RS wheatgrass	 	doc pdf
+ELLA3	Elymus lanceolatus	thickspike wheatgrass	 	doc pdf
+ELLAL	Elymus lanceolatus ssp. lanceolatus	thickspike wheatgrass	 	doc pdf
+ELLAP	Elymus lanceolatus ssp. psammophilus	Great Lakes wheatgrass	 	doc pdf
+ELMU3	Elymus multisetus	big squirreltail	 	doc pdf
+ELTR7	Elymus trachycaulus	slender wheatgrass	doc pdf	doc pdf
+ELTRT	Elymus trachycaulus ssp. trachycaulus	slender wheatgrass	 	doc pdf
+ELVI3	Elymus virginicus	Virginia wildrye	doc pdf	doc pdf
+ELWA2	Elymus wawawaiensis	Snake River wheatgrass	doc pdf	doc pdf
+ENVI	Encelia virginensis	Virgin River brittlebush	 	doc pdf
+ENPE4	Engelmannia peristenia	Engelmann's daisy	doc pdf	doc pdf
+EPNE	Ephedra nevadensis	Nevada jointfir	 	doc pdf
+EPVI	Ephedra viridis	mormon tea	 	doc pdf
+EPCA3	Epilobium canum	hummingbird trumpet	 	doc pdf
+ERCU2	Eragrostis curvula	weeping lovegrass	doc pdf	 
+ERIN	Eragrostis intermedia	plains lovegrass	doc pdf	doc pdf
+ERSEO	Eragrostis secundiflora ssp. oxylepis	red lovegrass	 	doc pdf
+ERSP	Eragrostis spectabilis	purple lovegrass	doc pdf	 
+ERSP2	Eragrostis spicata	spike lovegrass	 	doc pdf
+ERTR3	Eragrostis trichodes	sand lovegrass	doc pdf	doc pdf
+ERVA	Eragrostis variabilis	kawelu	doc pdf	 
+ERNA10	Ericameria nauseosa	rubber rabbitbrush	doc pdf	doc pdf
+ERMA8	Erigeron maguirei	Maguire's fleabane	 	doc pdf
+ERPH	Erigeron philadelphicus	Philadelphia fleabane	 	doc pdf
+ERSE5	Eriochloa sericea	Texas cupgrass	doc pdf	doc pdf
+ERCA6	Eriodictyon californicum	California yerba santa	 	doc pdf
+ERCON	Eriogonum corymbosum var. nilesii	Las Vegas wild buckwheat	 	doc pdf
+ERFA2	Eriogonum fasciculatum	Eastern Mojave buckwheat	 	doc pdf
+ERHE2	Eriogonum heracleoides	parsnipflower buckwheat	 	doc pdf
+ERNI2	Eriogonum niveum	snow buckwheat	 	doc pdf
+ERNU3	Eriogonum nudum	naked buckwheat	 	doc pdf
+ERPE10	Eriogonum pelinophilum	clay-loving buckwheat	doc pdf	doc pdf
+ERSO2	Eriogonum soredium	Frisco buckwheat	 	doc pdf
+ERUM	Eriogonum umbellatum	sulphur-flower buckwheat	doc pdf	doc pdf
+ERLA6	Eriophyllum lanatum	common woolly sunflower	doc pdf	doc pdf
+ERAQ	Eryngium aquaticum	rattlesnakemaster	 	doc pdf
+ERYU	Eryngium yuccifolium	button eryngo	doc pdf	 
+ESCA2	Eschscholzia californica	California poppy	 	doc pdf
+EUAM9	Euonymus americanus	bursting-heart	 	 
+EUAM7	Euonymus americana		 	doc pdf
+EUBU5	Euonymus bungeanus	winterberry euonymus	 	 
+EUBU6	Euonymus bungeanum		doc pdf	 
+EUPE3	Eupatorium perfoliatum	common boneset	doc pdf	 
+EUES	Euphorbia esula	leafy spurge	 	doc pdf
+EUGL5	Eustachys glauca	saltmarsh fingergrass	doc pdf	 
+EUGR5	Euthamia graminifolia	flat-top goldentop	doc pdf	doc pdf
+EUPE10	Eutrema penlandii	Penland's eutrema	doc pdf	doc pdf
+EUFI14	Eutrochium fistulosum	trumpetweed	 	 
+EUFI2	Eupatoriadelphus fistulosus		doc pdf	 
+EUMAM4	Eutrochium maculatum var. maculatum	spotted joe pye weed	 	 
+EUMAM3	Eupatoriadelphus maculatus var. maculatus		doc pdf	 
+EYTE	Eysenhardtia texana	Texas kidneywood	doc pdf	 
+FAES2	Fagopyrum esculentum	buckwheat	 	doc pdf
+FEAM5	Festuca ammobia	sand fescue	doc pdf	 
+FEAR2	Festuca arizonica	Arizona fescue	doc pdf	doc pdf
+FEBR7	Festuca brevipila	hard fescue	doc pdf	 
+FETR3	Festuca trachyphylla		doc pdf	 
+FECA	Festuca californica	California fescue	doc pdf	 
+FECA4	Festuca campestris	rough fescue	 	doc pdf
+FEID	Festuca idahoensis	Idaho fescue	 	doc pdf
+FEIDR2	Festuca idahoensis ssp. roemeri	Roemer's fescue	 	 
+FERO	Festuca roemeri		doc pdf	 
+FEOV	Festuca ovina	sheep fescue	 	doc pdf
+FERU2	Festuca rubra	red fescue	doc pdf	doc pdf
+FERUA3	Festuca rubra ssp. arenaria	red fescue	doc pdf	 
+FOPU2	Forestiera pubescens	stretchberry	doc pdf	 
+FRCH	Fragaria chiloensis	beach strawberry	 	doc pdf
+FRCHC	Fragaria chiloensis ssp. chiloensis	beach strawberry	 	doc pdf
+FRCHL	Fragaria chiloensis ssp. lucida	beach strawberry	 	doc pdf
+FRCHP	Fragaria chiloensis ssp. pacifica	Pacific beach strawberry	 	doc pdf
+FRCHS2	Fragaria chiloensis ssp. sandwicensis	Sandwich beach strawberry	 	doc pdf
+FRVE	Fragaria vesca	woodland strawberry	 	doc pdf
+FRVI	Fragaria virginiana	Virginia strawberry	 	doc pdf
+FRCA12	Frangula californica	California buckthorn	 	doc pdf
+FRAM2	Fraxinus americana	white ash	 	doc pdf
+FRNI	Fraxinus nigra	black ash	doc pdf	doc pdf
+FRPE	Fraxinus pennsylvanica	green ash	doc pdf	doc pdf
+FRCA6	Fremontodendron californicum	California flannelbush	 	doc pdf
+FRAF2	Fritillaria affinis	checker lily	 	doc pdf
+FRCA5	Fritillaria camschatcensis	Kamchatka fritillary	 	doc pdf
+GAAR	Gaillardia aristata	blanketflower	doc pdf	doc pdf
+GEVI2	Geranium viscosissimum	sticky purple geranium	 	doc pdf
+GINKG	Ginkgo	ginkgo	 	doc pdf
+GLSU	Glaucocarpum suffrutescens	Uinta Basin waxfruit	 	doc pdf
+GLHE2	Glechoma hederacea	ground ivy	 	doc pdf
+GLTR	Gleditsia triacanthos	honeylocust	doc pdf	doc pdf
+GLLE2	Glyceria leptostachya	davy mannagrass	doc pdf	 
+GLOC	Glyceria ¡Áoccidentalis	northwestern mannagrass	doc pdf	 
+GLST	Glyceria striata	fowl mannagrass	doc pdf	 
+GLEL	Glyceria elata		doc pdf	 
+GLLE3	Glycyrrhiza lepidota	American licorice	doc pdf	doc pdf
+GOPU	Goodyera pubescens	downy rattlesnake plantain	doc pdf	 
+GRCA	Grindelia camporum	Great Valley gumweed	 	doc pdf
+GRIN	Grindelia integrifolia	Puget Sound gumweed	doc pdf	 
+GRSQ	Grindelia squarrosa	curlycup gumweed	 	doc pdf
+GUSA2	Gutierrezia sarothrae	broom snakeweed	 	doc pdf
+GYDI	Gymnocladus dioicus	Kentucky coffeetree	doc pdf	doc pdf
+HAGL	Halogeton glomeratus	saltlover	 	doc pdf
+HEBO	Hedysarum boreale	Utah sweetvetch	doc pdf	doc pdf
+HEUN	Helianthella uniflora	oneflower helianthella	 	doc pdf
+HEAN3	Helianthus annuus	common sunflower	 	doc pdf
+HEDED	Helianthus debilis ssp. debilis	cucumberleaf sunflower	doc pdf	 
+HEMA2	Helianthus maximiliani	Maximilian sunflower	doc pdf	doc pdf
+HEMO2	Helianthus mollis	ashy sunflower	 	doc pdf
+HEPA19	Helianthus pauciflorus	stiff sunflower	doc pdf	 
+HEMU3	Heliomeris multiflora	showy goldeneye	 	doc pdf
+HEHE5	Heliopsis helianthoides	smooth oxeye	doc pdf	doc pdf
+HEHES	Heliopsis helianthoides var. scabra	smooth oxeye	doc pdf	 
+HEIN	Heliotropium indicum	Indian heliotrope	 	doc pdf
+HEFA	Hemizonia fasciculata	clustered tarweed	 	doc pdf
+HEAR22	Hesperocyparis arizonica	Arizona cypress	 	 
+CUAR	Cupressus arizonica		doc pdf	 
+HECO26	Hesperostipa comata	needle and thread	 	doc pdf
+HECOC8	Hesperostipa comata ssp. comata	needle and thread	doc pdf	 
+HEWH	Hesperoyucca whipplei	chaparral yucca	 	 
+YUWH	Yucca whipplei		 	doc pdf
+HEAR5	Heteromeles arbutifolia	toyon	 	doc pdf
+HECO10	Heteropogon contortus	tanglehead	doc pdf	 
+HIHIA	Hierochloe hirta ssp. arctica	northern sweetgrass	doc pdf	doc pdf
+HIOD	Hierochloe odorata	sweetgrass	doc pdf	doc pdf
+HIBE	Hilaria belangeri	curly-mesquite	doc pdf	 
+HODI	Holodiscus discolor	oceanspray	doc pdf	 
+HOBR2	Hordeum brachyantherum	meadow barley	doc pdf	 
+HOVU	Hordeum vulgare	common barley	 	doc pdf
+HOAQ	Howellia aquatilis	water howellia	 	doc pdf
+HUTO	Hudsonia tomentosa	woolly beachheather	doc pdf	 
+HYCA	Hydrastis canadensis	goldenseal	 	doc pdf
+HYOV	Hydrolea ovata	ovate false fiddleleaf	 	doc pdf
+HYHYH	Hypericum hypericoides ssp. hypericoides	St. Andrew's cross	 	doc pdf
+HYPE	Hypericum perforatum	common St. Johnswort	doc pdf	doc pdf
+ILGL	Ilex glabra	inkberry	 	doc pdf
+ILOP	Ilex opaca	American holly	doc pdf	 
+ILVE	Ilex verticillata	common winterberry	doc pdf	 
+ILVO	Ilex vomitoria	yaupon	doc pdf	doc pdf
+INMI	Indigofera miniata	coastal indigo	 	 
+INMIL	Indigofera miniata var. leptosepala		doc pdf	 
+INBI	Intsia bijuga	ifil	 	doc pdf
+IPLE	Ipomoea leptophylla	bush morning-glory	 	doc pdf
+IPAG	Ipomopsis aggregata	scarlet gilia	 	doc pdf
+IRDO	Iris douglasiana	Douglas iris	 	doc pdf
+IRFE	Iris fernaldii	Fernald's iris	 	doc pdf
+IRMA	Iris macrosiphon	bowltube iris	 	doc pdf
+IRMI	Iris missouriensis	Rocky Mountain iris	 	doc pdf
+IRPS	Iris pseudacorus	paleyellow iris	 	doc pdf
+IRPU	Iris purdyi	Purdy's iris	 	doc pdf
+IRVE2	Iris versicolor	harlequin blueflag	doc pdf	 
+IRVI	Iris virginica	Virginia iris	 	doc pdf
+IVFR	Iva frutescens	Jesuit's bark	doc pdf	 
+JUCI	Juglans cinerea	butternut	 	doc pdf
+JUMI	Juglans microcarpa	little walnut	doc pdf	doc pdf
+JUNI	Juglans nigra	black walnut	doc pdf	doc pdf
+JUARL	Juncus arcticus ssp. littoralis	mountain rush	 	doc pdf
+JUBA	Juncus balticus		 	doc pdf
+JUEF	Juncus effusus	common rush	doc pdf	doc pdf
+JULE	Juncus lesueurii	salt rush	 	doc pdf
+JURO	Juncus roemerianus	needlegrass rush	doc pdf	doc pdf
+JUTE	Juncus tenuis	poverty rush	 	doc pdf
+JUTE2	Juncus textilis	basket rush	 	doc pdf
+JUCO12	Juniperus conferta	shore juniper	doc pdf	 
+JUPI	Juniperus pinchotii	Pinchot's juniper	 	doc pdf
+JUSC2	Juniperus scopulorum	Rocky Mountain juniper	doc pdf	doc pdf
+JUVI	Juniperus virginiana	eastern redcedar	doc pdf	doc pdf
+KOMA	Koeleria macrantha	prairie Junegrass	doc pdf	doc pdf
+KRLA2	Krascheninnikovia lanata	winterfat	 	doc pdf
+KUST	Kummerowia stipulacea	Korean clover	doc pdf	 
+KUST2	Kummerowia striata	Japanese clover	doc pdf	 
+LAPU6	Lablab purpureus	hyacinthbean	 	doc pdf
+LAIN	Lagerstroemia indica	crapemyrtle	 	doc pdf
+LAAM	Lamium amplexicaule	henbit deadnettle	doc pdf	 
+LALA	Larix laricina	tamarack	 	doc pdf
+LALA4	Lathyrus latifolius	perennial pea	doc pdf	 
+LASY	Lathyrus sylvestris	flat pea	doc pdf	 
+LEGR	Ledum groenlandicum	bog Labrador tea	 	doc pdf
+LEOR	Leersia oryzoides	rice cutgrass	doc pdf	 
+LEVI2	Leersia virginica	whitegrass	 	doc pdf
+LECU2	Lens culinaris	lentil	 	doc pdf
+LEBA	Lepidium barnebyanum	Barneby's pepperweed	 	doc pdf
+LEOS	Lepidium ostleri	Ostler's pepperweed	 	doc pdf
+LEPA17	Lepidium papilliferum	Idaho pepperweed	 	doc pdf
+LEDU	Leptochloa dubia	green sprangletop	doc pdf	 
+LEBI2	Lespedeza bicolor	shrub lespedeza	doc pdf	 
+LECA8	Lespedeza capitata	roundhead lespedeza	doc pdf	doc pdf
+LECU	Lespedeza cuneata	sericea lespedeza	doc pdf	 
+LETH4	Lespedeza thunbergii	Thunberg's lespedeza	doc pdf	 
+LERU4	Lesquerella rubicundula	tum bladderpod	 	doc pdf
+LERE5	Leucaena retusa	littleleaf leadtree	 	doc pdf
+LERE7	Lewisia rediviva	bitter root	 	doc pdf
+LEAN3	Leymus angustus	Altai wildrye	 	doc pdf
+LECI4	Leymus cinereus	basin wildrye	 	doc pdf
+LEMU11	Leymus multicaulis	manystem wildrye	doc pdf	doc pdf
+LERA5	Leymus racemosus	mammoth wildrye	 	doc pdf
+LETR5	Leymus triticoides	beardless wildrye	 	doc pdf
+LIPU	Liatris punctata	dotted blazing star	doc pdf	doc pdf
+LIPY	Liatris pycnostachya	prairie blazing star	doc pdf	doc pdf
+LISI	Ligustrum sinense	Chinese privet	 	doc pdf
+LIPA	Lilium pardalinum	leopard lily	 	doc pdf
+LIBE3	Lindera benzoin	northern spicebush	 	doc pdf
+LIBEB	Lindera benzoin var. benzoin	northern spicebush	 	doc pdf
+LIBEP	Lindera benzoin var. pubescens	northern spicebush	 	doc pdf
+LILE3	Linum lewisii	Lewis flax	 	doc pdf
+LIPE2	Linum perenne	blue flax	doc pdf	doc pdf
+LIST2	Liquidambar styraciflua	sweetgum	doc pdf	doc pdf
+LITU	Liriodendron tulipifera	tuliptree	doc pdf	 
+LOCA2	Lobelia cardinalis	cardinalflower	 	doc pdf
+LOIN	Lobelia inflata	Indian-tobacco	 	doc pdf
+LOSI	Lobelia siphilitica	great blue lobelia	 	doc pdf
+LOPE	Lolium perenne	perennial ryegrass	doc pdf	 
+LOPEM2	Lolium perenne ssp. multiflorum	Italian ryegrass	doc pdf	 
+LOPEP	Lolium perenne ssp. perenne	perennial ryegrass	 	doc pdf
+LODI	Lomatium dissectum	fernleaf biscuitroot	 	doc pdf
+LOGR	Lomatium grayi	Gray's biscuitroot	 	doc pdf
+LONU2	Lomatium nudicaule	barestem biscuitroot	 	doc pdf
+LOTR2	Lomatium triternatum	nineleaf biscuitroot	 	doc pdf
+LOCA7	Lonicera canadensis	American fly honeysuckle	doc pdf	 
+LOIN5	Lonicera involucrata	twinberry honeysuckle	doc pdf	doc pdf
+LOCO6	Lotus corniculatus	bird's-foot trefoil	doc pdf	 
+LOCR	Lotus crassifolius	big deervetch	doc pdf	doc pdf
+LOUT3	Lotus utahensis	Utah bird's-foot trefoil	 	doc pdf
+LUDE4	Ludwigia decurrens	wingleaf primrose-willow	 	doc pdf
+LUAL22	Lupinus albus	white lupine	 	doc pdf
+LUDEA	Lupinus densiflorus var. aureus	whitewhorl lupine	doc pdf	 
+LUEL4	Lupinus elegans	elegant lupine	doc pdf	 
+LUNO	Lupinus nootkatensis	Nootka lupine	 	doc pdf
+LUPE3	Lupinus perennis	sundial lupine	 	doc pdf
+LUPO2	Lupinus polyphyllus	bigleaf lupine	 	doc pdf
+LURI	Lupinus rivularis	riverbank lupine	doc pdf	 
+LUSE4	Lupinus sericeus	silky lupine	 	doc pdf
+LYSA2	Lythrum salicaria	purple loosestrife	 	doc pdf
+MABIB	Machaeranthera bigelovii var. bigelovii	Bigelow's tansyaster	 	doc pdf
+MACA2	Machaeranthera canescens	hoary tansyaster	 	doc pdf
+MAPO	Maclura pomifera	Osage-orange	doc pdf	doc pdf
+MAEL	Madia elegans	common madia	 	doc pdf
+MAGL2	Madia glomerata	mountain tarweed	 	doc pdf
+MAGR3	Madia gracilis	grassy tarweed	 	doc pdf
+MASA	Madia sativa	coast tarweed	 	doc pdf
+MAGR4	Magnolia grandiflora	southern magnolia	 	doc pdf
+MAVI2	Magnolia virginiana	sweetbay	 	doc pdf
+MALUS	Malus	apple	doc pdf	 
+MAAN3	Malus angustifolia	southern crab apple	doc pdf	 
+MAMA37	Malus mandshurica	Manchurian crab apple	 	doc pdf
+MAIN3	Mangifera indica	mango	 	doc pdf
+MAES	Manihot esculenta	cassava	 	doc pdf
+MEPO3	Medicago polymorpha	burclover	doc pdf	doc pdf
+MESA	Medicago sativa	alfalfa	doc pdf	 
+MESAF	Medicago sativa ssp. falcata	yellow alfalfa	 	doc pdf
+MENI	Melica nitens	threeflower melicgrass	doc pdf	 
+MESP	Melica spectabilis	purple oniongrass	 	doc pdf
+MEOF	Melilotus officinalis	sweetclover	 	doc pdf
+MEDI	Mentzelia dispersa	bushy blazingstar	 	doc pdf
+MELA2	Mentzelia laevicaulis	smoothstem blazingstar	 	doc pdf
+MIST2	Mimosa strigillosa	powderpuff	doc pdf	doc pdf
+MIMA2	Mirabilis macfarlanei	MacFarlane's four o'clock	 	doc pdf
+MODI	Monarda didyma	scarlet beebalm	 	doc pdf
+MOFI	Monarda fistulosa	wild bergamot	 	doc pdf
+MOME	Monarda media	purple bergamot	doc pdf	 
+MOPU	Monarda punctata	spotted beebalm	 	doc pdf
+MOCA6	Morella californica	California wax myrtle	 	doc pdf
+MOCE2	Morella cerifera	wax myrtle	 	 
+MYPU	Myrica pusilla		doc pdf	 
+MOPE6	Morella pensylvanica	northern bayberry	doc pdf	 
+MOAL	Morus alba	white mulberry	 	doc pdf
+MORU2	Morus rubra	red mulberry	 	doc pdf
+MUCA2	Muhlenbergia capillaris	hairawn muhly	doc pdf	 
+MUEX	Muhlenbergia expansa	cutover muhly	 	 
+MUCAT	Muhlenbergia capillaris var. trichopodes		doc pdf	 
+MUFI3	Muhlenbergia filipes	gulfhairawn muhly	 	doc pdf
+MULI	Muhlenbergia lindheimeri	Lindheimer's muhly	doc pdf	 
+MURE2	Muhlenbergia reverchonii	seep muhly	doc pdf	 
+MURI2	Muhlenbergia rigens	deergrass	doc pdf	doc pdf
+MYSP2	Myriophyllum spicatum	Eurasian watermilfoil	 	doc pdf
+NACE	Nassella cernua	nodding needlegrass	 	doc pdf
+NALE3	Nassella leucotricha	Texas wintergrass	doc pdf	 
+NAPU4	Nassella pulchra	purple needlegrass	 	doc pdf
+NAVI4	Nassella viridula	green needlegrass	 	doc pdf
+NIRU	Nicotiana rustica	Aztec tobacco	doc pdf	 
+NOMI	Nolina microcarpa	sacahuista	 	doc pdf
+NODE3	Notholithocarpus densiflorus	tanoak	 	 
+LIDE3	Lithocarpus densiflorus		 	doc pdf
+NOBI2	Nothoscordum bivalve	crowpoison	doc pdf	 
+NULU	Nuphar lutea	yellow pond-lily	 	doc pdf
+NYBI	Nyssa biflora	swamp tupelo	doc pdf	 
+NYSY	Nyssa sylvatica	blackgum	doc pdf	doc pdf
+OECE	Oemleria cerasiformis	Indian plum	doc pdf	 
+OEBI	Oenothera biennis	common evening primrose	 	doc pdf
+OEFR	Oenothera fruticosa	narrowleaf evening primrose	doc pdf	 
+OLRIR	Oligoneuron rigidum var. rigidum	stiff goldenrod	doc pdf	 
+ONVI	Onobrychis viciifolia	sainfoin	doc pdf	doc pdf
+OPPO	Opuntia polyacantha	plains pricklypear	 	doc pdf
+OSVI	Ostrya virginiana	hophornbeam	 	doc pdf
+PAAU3	Packera aurea	golden ragwort	doc pdf	 
+PACA15	Packera cana	woolly groundsel	 	doc pdf
+PAMU11	Packera multilobata	lobeleaf groundsel	 	doc pdf
+PAST10	Packera streptanthifolia	Rocky Mountain groundsel	 	doc pdf
+PAQU	Panax quinquefolius	American ginseng	 	doc pdf
+PAAB	Panicum abscissum	cutthroat grass	doc pdf	 
+PAAM2	Panicum amarum	bitter panicgrass	doc pdf	doc pdf
+PAAMA2	Panicum amarum var. amarulum	coastal panicgrass	doc pdf	 
+PAAN	Panicum anceps	beaked panicgrass	doc pdf	doc pdf
+PACO2	Panicum coloratum	kleingrass	doc pdf	doc pdf
+PADI	Panicum dichotomiflorum	fall panicgrass	 	doc pdf
+PAHAF	Panicum hallii var. filipes	Hall's panicgrass	doc pdf	 
+PAHA2	Panicum havardii	Havard's panicgrass	doc pdf	 
+PAHE2	Panicum hemitomon	maidencane	doc pdf	doc pdf
+PAMI2	Panicum miliaceum	proso millet	 	doc pdf
+PAOB	Panicum obtusum	vine mesquite	doc pdf	 
+PARE3	Panicum repens	torpedo grass	 	doc pdf
+PAVI2	Panicum virgatum	switchgrass	doc pdf	 
+PABI2	Pappophorum bicolor	pink pappusgrass	doc pdf	doc pdf
+PAVA2	Pappophorum vaginatum	whiplash pappusgrass	doc pdf	doc pdf
+PAIN3	Parthenium integrifolium	wild quinine	 	doc pdf
+PAQU2	Parthenocissus quinquefolia	Virginia creeper	doc pdf	doc pdf
+PASM	Pascopyrum smithii	western wheatgrass	doc pdf	doc pdf
+PADE24	Paspalum denticulatum	longtom	 	 
+PALI7	Paspalum lividum		doc pdf	 
+PADI6	Paspalum distichum	knotgrass	doc pdf	doc pdf
+PAFL4	Paspalum floridanum	Florida paspalum	doc pdf	doc pdf
+PANO2	Paspalum notatum	bahiagrass	doc pdf	 
+PAPL3	Paspalum plicatulum	brownseed paspalum	doc pdf	 
+PASE5	Paspalum setaceum	thin paspalum	doc pdf	 
+PAVA	Paspalum vaginatum	seashore paspalum	doc pdf	doc pdf
+PAIN6	Passiflora incarnata	purple passionflower	doc pdf	doc pdf
+PALA13	Pavonia lasiopetala	Texas swampmallow	doc pdf	 
+PEDE17	Pediocactus despainii	Despain's pincushion cactus	 	doc pdf
+PESI4	Pediocactus sileri	Siler pincushion cactus	 	doc pdf
+PEWI2	Pediocactus winkleri	Winkler's pincushion cactus	 	doc pdf
+PEVI	Peltandra virginica	green arrow arum	doc pdf	 
+PEGL2	Pennisetum glaucum	pearl millet	 	doc pdf
+PENST	Penstemon	beardtongue	doc pdf	 
+PEAC	Penstemon acuminatus	sharpleaf penstemon	 	doc pdf
+PEAN4	Penstemon angustifolius	broadbeard beardtongue	doc pdf	 
+PEAT3	Penstemon attenuatus	sulphur penstemon	doc pdf	doc pdf
+PECY3	Penstemon cyaneus	blue penstemon	 	doc pdf
+PECY4	Penstemon cyanocaulis	bluestem beardtongue	 	doc pdf
+PEDE4	Penstemon deustus	scabland penstemon	 	doc pdf
+PEEA	Penstemon eatonii	firecracker penstemon	 	doc pdf
+PEEAE2	Penstemon eatonii ssp. eatonii	firecracker penstemon	 	doc pdf
+PEEAE	Penstemon eatonii ssp. exsertus	firecracker penstemon	 	doc pdf
+PEEAU	Penstemon eatonii ssp. undosus	firecracker penstemon	 	doc pdf
+PEGR7	Penstemon grandiflorus	large beardtongue	 	doc pdf
+PEHU	Penstemon humilis	low beardtongue	 	doc pdf
+PEPA6	Penstemon pachyphyllus	thickleaf beardtongue	 	doc pdf
+PEPAC2	Penstemon pachyphyllus var. congestus	thickleaf beardtongue	 	doc pdf
+PEPAM5	Penstemon pachyphyllus var. mucronatus	mucronate penstemon	 	doc pdf
+PEPAP8	Penstemon pachyphyllus var. pachyphyllus	thickleaf beardtongue	 	doc pdf
+PEPA8	Penstemon palmeri	Palmer's penstemon	 	doc pdf
+PEPAE2	Penstemon palmeri var. eglandulosus	scented beardtongue	 	doc pdf
+PEPAM3	Penstemon palmeri var. macranthus	scented beardtongue	 	doc pdf
+PEPAP9	Penstemon palmeri var. palmeri	Palmer's penstemon	 	doc pdf
+PERY	Penstemon rydbergii	Rydberg's penstemon	 	doc pdf
+PERYA	Penstemon rydbergii var. aggregatus	meadow beardtongue	 	doc pdf
+PERYO	Penstemon rydbergii var. oreocharis	herbaceous penstemon	 	doc pdf
+PERYR	Penstemon rydbergii var. rydbergii	swollen penstemon	 	doc pdf
+PESCA	Penstemon scariosus var. albifluvis	White River beardtongue	 	doc pdf
+PESP	Penstemon speciosus	royal penstemon	 	doc pdf
+PEST2	Penstemon strictus	Rocky Mountain penstemon	 	doc pdf
+PEVE2	Penstemon venustus	Venus penstemon	 	doc pdf
+PHAR2	Phacelia argillacea	Attwood's phacelia	 	doc pdf
+PHAQ	Phalaris aquatica	bulbous canarygrass	 	doc pdf
+PHAR3	Phalaris arundinacea	reed canarygrass	doc pdf	doc pdf
+PHLE4	Philadelphus lewisii	Lewis' mock orange	doc pdf	doc pdf
+PHPR3	Phleum pratense	timothy	doc pdf	doc pdf
+PHAU7	Phragmites australis	common reed	doc pdf	doc pdf
+PHCA11	Physocarpus capitatus	Pacific ninebark	doc pdf	 
+PHOP	Physocarpus opulifolius	common ninebark	 	doc pdf
+PHOPI	Physocarpus opulifolius var. intermedius	Atlantic ninebark	 	doc pdf
+PHOPO	Physocarpus opulifolius var. opulifolius	common ninebark	 	doc pdf
+PIEN	Picea engelmannii	Engelmann spruce	 	doc pdf
+PIGL	Picea glauca	white spruce	 	doc pdf
+PIMA	Picea mariana	black spruce	 	doc pdf
+PIPU	Picea pungens	blue spruce	 	doc pdf
+PIRU	Picea rubens	red spruce	doc pdf	 
+PISI	Picea sitchensis	Sitka spruce	 	doc pdf
+PIAL	Pinus albicaulis	whitebark pine	 	doc pdf
+PIBA2	Pinus banksiana	jack pine	 	doc pdf
+PIED	Pinus edulis	twoneedle pinyon	 	doc pdf
+PIEL	Pinus elliottii	slash pine	 	doc pdf
+PIJE	Pinus jeffreyi	Jeffrey pine	 	doc pdf
+PIMO	Pinus monophylla	singleleaf pinyon	 	doc pdf
+PIPA2	Pinus palustris	longleaf pine	doc pdf	doc pdf
+PIPO	Pinus ponderosa	ponderosa pine	doc pdf	doc pdf
+PIRA2	Pinus radiata	Monterey pine	 	doc pdf
+PIRE	Pinus resinosa	red pine	doc pdf	doc pdf
+PISA2	Pinus sabiniana	California foothill pine	 	doc pdf
+PIST	Pinus strobus	eastern white pine	doc pdf	 
+PISY	Pinus sylvestris	Scots pine	doc pdf	 
+PITH2	Pinus thunbergii	Japanese black pine	doc pdf	 
+PISA6	Pisum sativum	garden pea	doc pdf	doc pdf
+PIGR4	Pityopsis graminifolia	narrowleaf silkgrass	doc pdf	 
+PLHO	Plantago hookeriana	California plantain	doc pdf	 
+PLRH	Plantago rhodosperma	redseed plantain	doc pdf	 
+PLCI2	Platanthera ciliaris	yellow fringed orchid	 	doc pdf
+PLOC	Platanus occidentalis	American sycamore	 	doc pdf
+PLCO4	Plectritis congesta	shortspur seablush	doc pdf	 
+PLJA	Pleuraphis jamesii	James' galleta	 	doc pdf
+PLMU3	Pleuraphis mutica	tobosagrass	doc pdf	 
+POAR	Poa arachnifera	Texas bluegrass	doc pdf	 
+POBU	Poa bulbosa	bulbous bluegrass	 	doc pdf
+POCO	Poa compressa	Canada bluegrass	 	doc pdf
+POFE	Poa fendleriana	muttongrass	 	doc pdf
+POPR	Poa pratensis	Kentucky bluegrass	doc pdf	doc pdf
+POSE	Poa secunda	Sandberg bluegrass	doc pdf	doc pdf
+POSC	Poa scabrella		doc pdf	 
+PODOR	Polanisia dodecandra ssp. riograndensis	Rio Grande clammyweed	doc pdf	 
+POIN3	Poliomintha incana	frosted mint	 	doc pdf
+POPE2	Polygonum pensylvanicum	Pennsylvania smartweed	doc pdf	 
+POGU	Polyscias guilfoylei	geranium aralia	doc pdf	 
+PONU4	Polytaenia nuttallii	Nuttall's prairie parsley	 	doc pdf
+POCO14	Pontederia cordata	pickerelweed	doc pdf	 
+POAN3	Populus angustifolia	narrowleaf cottonwood	 	doc pdf
+POBAT	Populus balsamifera ssp. trichocarpa	black cottonwood	 	doc pdf
+PODE3	Populus deltoides	eastern cottonwood	doc pdf	 
+POFR2	Populus fremontii	Fremont cottonwood	doc pdf	doc pdf
+POTR5	Populus tremuloides	quaking aspen	 	doc pdf
+POCR3	Potamogeton crispus	curly pondweed	 	doc pdf
+POPE7	Potamogeton perfoliatus	claspingleaf pondweed	doc pdf	doc pdf
+POGR9	Potentilla gracilis	slender cinquefoil	doc pdf	 
+PRCUM	Primula cusickiana var. maguirei	Maguire's primrose	 	doc pdf
+PRPA2	Proboscidea parviflora	doubleclaw	 	doc pdf
+PRGL2	Prosopis glandulosa	honey mesquite	 	doc pdf
+PRGLT	Prosopis glandulosa var. torreyana	western honey mesquite	 	doc pdf
+PRPU	Prosopis pubescens	screwbean mesquite	 	doc pdf
+PRVE	Prosopis velutina	velvet mesquite	 	doc pdf
+PRVUL2	Prunella vulgaris ssp. lanceolata	lance selfheal	doc pdf	 
+PRAM	Prunus americana	American plum	doc pdf	doc pdf
+PRAN3	Prunus angustifolia	Chickasaw plum	doc pdf	doc pdf
+PREM	Prunus emarginata	bitter cherry	 	doc pdf
+PRIL	Prunus ilicifolia	hollyleaf cherry	 	doc pdf
+PRMA2	Prunus maritima	beach plum	doc pdf	 
+PRPUD	Prunus pumila var. depressa	eastern sandcherry	doc pdf	 
+PRSE2	Prunus serotina	black cherry	 	doc pdf
+PRSEE	Prunus serotina var. eximia	black cherry	 	doc pdf
+PRSER2	Prunus serotina var. rufula	black cherry	 	doc pdf
+PRSES	Prunus serotina var. serotina	black cherry	 	doc pdf
+PRSEV	Prunus serotina var. virens	black cherry	 	doc pdf
+PRVI	Prunus virginiana	chokecherry	doc pdf	doc pdf
+PRVID	Prunus virginiana var. demissa	western chokecherry	doc pdf	 
+PRVIM	Prunus virginiana var. melanocarpa	black chokecherry	doc pdf	 
+PSJU3	Psathyrostachys juncea	Russian wildrye	 	doc pdf
+PSSP6	Pseudoroegneria spicata	bluebunch wheatgrass	doc pdf	doc pdf
+PSSPI	Pseudoroegneria spicata ssp. inermis	beardless wheatgrass	 	doc pdf
+PSSPS	Pseudoroegneria spicata ssp. spicata	bluebunch wheatgrass	 	doc pdf
+PSME	Pseudotsuga menziesii	Douglas-fir	doc pdf	doc pdf
+PUTR2	Purshia tridentata	antelope bitterbrush	doc pdf	doc pdf
+PYTE	Pycnanthemum tenuifolium	narrowleaf mountainmint	doc pdf	doc pdf
+QUAC80	Quercus acutissima	sawtooth oak	doc pdf	 
+QUAG	Quercus agrifolia	California live oak	 	doc pdf
+QUAL	Quercus alba	white oak	doc pdf	 
+QUBI	Quercus bicolor	swamp white oak	 	doc pdf
+QUCH2	Quercus chrysolepis	canyon live oak	 	doc pdf
+QUDO	Quercus douglasii	blue oak	 	doc pdf
+QUEL	Quercus ellipsoidalis	northern pin oak	 	doc pdf
+QUGA4	Quercus garryana	Oregon white oak	 	doc pdf
+QUKE	Quercus kelloggii	California black oak	 	doc pdf
+QULO	Quercus lobata	valley oak	 	doc pdf
+QULY	Quercus lyrata	overcup oak	 	doc pdf
+QUMA2	Quercus macrocarpa	bur oak	doc pdf	doc pdf
+QUMI	Quercus michauxii	swamp chestnut oak	doc pdf	 
+QUPA5	Quercus pagoda	cherrybark oak	 	doc pdf
+QUPA2	Quercus palustris	pin oak	doc pdf	 
+QUPH	Quercus phellos	willow oak	doc pdf	 
+QURU	Quercus rubra	northern red oak	 	doc pdf
+QUSH	Quercus shumardii	Shumard's oak	 	doc pdf
+QUVI	Quercus virginiana	live oak	 	doc pdf
+QUWI2	Quercus wislizeni	interior live oak	doc pdf	doc pdf
+RAAC3	Ranunculus acris	tall buttercup	 	doc pdf
+RAAE	Ranunculus aestivalis	fall buttercup	 	doc pdf
+RAOC	Ranunculus occidentalis	western buttercup	 	doc pdf
+RASA2	Raphanus sativus	cultivated radish	doc pdf	doc pdf
+RACO3	Ratibida columnifera	upright prairie coneflower	doc pdf	doc pdf
+RAPI	Ratibida pinnata	pinnate prairie coneflower	doc pdf	doc pdf
+REFL	Redfieldia flexuosa	blowout grass	doc pdf	 
+RHMA	Rhexia mariana	Maryland meadowbeauty	doc pdf	 
+RHAR4	Rhus aromatica	fragrant sumac	 	doc pdf
+RHARA	Rhus aromatica var. arenaria	fragrant sumac	 	doc pdf
+RHARA2	Rhus aromatica var. aromatica	fragrant sumac	 	doc pdf
+RHARS	Rhus aromatica var. serotina	fragrant sumac	doc pdf	doc pdf
+RHCO	Rhus copallinum	winged sumac	doc pdf	 
+RHGL	Rhus glabra	smooth sumac	doc pdf	doc pdf
+RHTR	Rhus trilobata	skunkbush sumac	 	doc pdf
+RHTRA	Rhus trilobata var. anisophylla	skunkbush sumac	 	doc pdf
+RHTRP	Rhus trilobata var. pilosissima	pubescent skunkbush sumac	 	doc pdf
+RHTRQ	Rhus trilobata var. quinata	skunkbush sumac	 	doc pdf
+RHTRR	Rhus trilobata var. racemulosa	skunkbush sumac	 	doc pdf
+RHTRS	Rhus trilobata var. simplicifolia	skunkbush sumac	 	doc pdf
+RHTRT	Rhus trilobata var. trilobata	skunkbush sumac	 	doc pdf
+RHTY	Rhus typhina	staghorn sumac	 	 
+RHHI2	Rhus hirta		doc pdf	 
+RIAM2	Ribes americanum	American black currant	 	doc pdf
+RIAU	Ribes aureum	golden currant	 	doc pdf
+RIAUA	Ribes aureum var. aureum	golden currant	 	doc pdf
+RIAUG	Ribes aureum var. gracillimum	golden currant	 	doc pdf
+RIAUV	Ribes aureum var. villosum	golden currant	doc pdf	doc pdf
+RISA	Ribes sanguineum	redflower currant	doc pdf	 
+ROHIF8	Robinia hispida var. fertilis	bristly locust	doc pdf	 
+ROPS	Robinia pseudoacacia	black locust	doc pdf	 
+ROCA3	Rosa canina	dog rose	 	doc pdf
+ROGY	Rosa gymnocarpa	dwarf rose	 	doc pdf
+RONU	Rosa nutkana	Nootka rose	 	doc pdf
+ROPA	Rosa palustris	swamp rose	 	doc pdf
+RORU82	Rosa rubiginosa	sweetbriar rose	 	doc pdf
+RORU	Rosa rugosa	rugosa rose	doc pdf	 
+ROVI2	Rosa virginiana	Virginia rose	 	doc pdf
+ROVIL	Rosa virginiana var. lamprophylla	Virginia rose	 	doc pdf
+ROVIV2	Rosa virginiana var. virginiana	Virginia rose	 	doc pdf
+ROWO	Rosa woodsii	Woods' rose	 	doc pdf
+ROWOG	Rosa woodsii var. glabrata	Woods' rose	 	doc pdf
+ROWOG2	Rosa woodsii var. gratissima	Tehachapi rose	 	doc pdf
+ROWOU	Rosa woodsii var. ultramontana	Woods' rose	 	doc pdf
+ROWOW	Rosa woodsii var. woodsii	Woods' rose	 	doc pdf
+RUAR9	Rubus armeniacus	Himalayan blackberry	 	doc pdf
+RUID	Rubus idaeus	American red raspberry	 	doc pdf
+RUSP	Rubus spectabilis	salmonberry	 	doc pdf
+RUHI2	Rudbeckia hirta	blackeyed Susan	doc pdf	 
+SAMI8	Sabal minor	dwarf palmetto	 	doc pdf
+SAPA	Sabal palmetto	cabbage palmetto	 	doc pdf
+SABRC3	Saccharum brevibarbe var. contortum	sortbeard plumegrass	doc pdf	 
+SACU	Sagittaria cuneata	arumleaf arrowhead	 	doc pdf
+SALA2	Sagittaria latifolia	broadleaf arrowhead	doc pdf	doc pdf
+SAAM2	Salix amygdaloides	peachleaf willow	 	doc pdf
+SABE2	Salix bebbiana	Bebb willow	 	doc pdf
+SACO28	Salix ¡Ácottetii	Cottet willow	doc pdf	 
+SADR	Salix drummondiana	Drummond's willow	 	doc pdf
+SAEX	Salix exigua	narrowleaf willow	doc pdf	doc pdf
+SAHU2	Salix humilis	prairie willow	 	doc pdf
+SAIN3	Salix interior	sandbar willow	doc pdf	 
+SALE	Salix lemmonii	Lemmon's willow	 	doc pdf
+SALU	Salix lucida	shining willow	 	doc pdf
+SALUL	Salix lucida ssp. lasiandra	Pacific willow	 	doc pdf
+SANI	Salix nigra	black willow	doc pdf	doc pdf
+SAPR3	Salix prolixa	MacKenzie's willow	 	doc pdf
+SAPU2	Salix purpurea	purpleosier willow	doc pdf	 
+SASI2	Salix sitchensis	Sitka willow	 	doc pdf
+SAAP2	Salvia apiana	white sage	 	doc pdf
+SAAZG	Salvia azurea var. grandiflora	pitcher sage	doc pdf	doc pdf
+SACO6	Salvia columbariae	chia	 	doc pdf
+SADO4	Salvia dorrii	purple sage	 	doc pdf
+SALY2	Salvia lyrata	lyreleaf sage	doc pdf	 
+SANIC4	Sambucus nigra ssp. canadensis	American black elderberry	doc pdf	doc pdf
+SANIC5	Sambucus nigra ssp. cerulea	blue elderberry	 	doc pdf
+SARA2	Sambucus racemosa	red elderberry	doc pdf	 
+SAMI3	Sanguisorba minor	small burnet	doc pdf	doc pdf
+SAVE4	Sarcobatus vermiculatus	greasewood	 	doc pdf
+SAAL5	Sassafras albidum	sassafras	 	doc pdf
+SAOR2	Saxifraga oregana	Oregon saxifrage	 	doc pdf
+SCAR7	Schedonorus arundinaceus	tall fescue	 	 
+LOAR10	Lolium arundinaceum		doc pdf	doc pdf
+SCLI11	Schizachyrium littorale	shore little bluestem	doc pdf	 
+SCMA3	Schizachyrium maritimum	gulf bluestem	doc pdf	 
+SCSC	Schizachyrium scoparium	little bluestem	doc pdf	doc pdf
+SCSCD	Schizachyrium scoparium var. divergens	little bluestem	 	doc pdf
+SCSCS3	Schizachyrium scoparium var. stoloniferum	creeping bluestem	doc pdf	 
+SCTE5	Schizachyrium tenerum	slender little bluestem	doc pdf	 
+SCFO2	Schleinitzia fosbergii	strand tangantangan	 	doc pdf
+SCAR5	Schoenocrambe argillacea	Uinta Basin plainsmustard	 	doc pdf
+SCBA80	Schoenocrambe barnebyi	Syes Butte plainsmustard	 	doc pdf
+SCAC3	Schoenoplectus acutus	hardstem bulrush	 	doc pdf
+SCACO2	Schoenoplectus acutus var. occidentalis	tule	 	doc pdf
+SCAM6	Schoenoplectus americanus	chairmaker's bulrush	 	doc pdf
+SCCA11	Schoenoplectus californicus	California bulrush	doc pdf	doc pdf
+SCPU10	Schoenoplectus pungens	common threesquare	 	doc pdf
+SCTA2	Schoenoplectus tabernaemontani	softstem bulrush	 	doc pdf
+SCCY	Scirpus cyperinus	woolgrass	 	doc pdf
+SCGL3	Sclerocactus glaucus	Colorado hookless cactus	 	doc pdf
+SCWR	Sclerocactus wrightiae	Wright's fishhook cactus	 	doc pdf
+SCBR2	Scleropogon brevifolius	burrograss	doc pdf	 
+SECE	Secale cereale	cereal rye	doc pdf	doc pdf
+SEVA4	Securigera varia	crownvetch	 	 
+COVA2	Coronilla varia		doc pdf	 
+SEAT	Senecio atratus	tall blacktip ragwort	 	doc pdf
+SEIN2	Senecio integerrimus	lambstongue ragwort	 	doc pdf
+SEJA	Senecio jacobaea	stinking willie	 	doc pdf
+SEHE3	Senna hebecarpa	American senna	doc pdf	 
+SERE2	Serenoa repens	saw palmetto	 	doc pdf
+SEOR4	Sesamum orientale	sesame	 	doc pdf
+SEHE8	Sesbania herbacea	bigpod sesbania	 	doc pdf
+SEIT	Setaria italica	foxtail millet	 	doc pdf
+SELE6	Setaria leucopila	streambed bristlegrass	 	doc pdf
+SEPA10	Setaria parviflora	marsh bristlegrass	doc pdf	 
+SEVU2	Setaria vulpiseta	plains bristlegrass	doc pdf	doc pdf
+SHAR	Shepherdia argentea	silver buffaloberry	doc pdf	doc pdf
+SHCA	Shepherdia canadensis	russet buffaloberry	 	doc pdf
+SICA2	Sidalcea campestris	meadow checkerbloom	doc pdf	 
+SIMAV	Sidalcea malviflora ssp. virgata	dwarf checkerbloom	 	 
+SIVI3	Sidalcea virgata		 	doc pdf
+SISP2	Silene spaldingii	Spalding's silene	 	doc pdf
+SILA3	Silphium laciniatum	compassplant	doc pdf	doc pdf
+SIPE2	Silphium perfoliatum	cup plant	 	doc pdf
+SIPEC2	Silphium perfoliatum var. connatum	cup plant	 	doc pdf
+SIPEP	Silphium perfoliatum var. perfoliatum	cup plant	 	doc pdf
+SICA7	Simsia calva	awnless bushsunflower	doc pdf	doc pdf
+SIID	Sisyrinchium idahoense	Idaho blue-eyed grass	 	doc pdf
+SOEL	Solanum elaeagnifolium	silverleaf nightshade	 	doc pdf
+SOME	Solanum melongena	eggplant	 	doc pdf
+SOCA6	Solidago canadensis	Canada goldenrod	doc pdf	doc pdf
+SOMI2	Solidago missouriensis	Missouri goldenrod	doc pdf	doc pdf
+SONE	Solidago nemoralis	gray goldenrod	doc pdf	 
+SOSE	Solidago sempervirens	seaside goldenrod	doc pdf	doc pdf
+SONU2	Sorghastrum nutans	Indiangrass	doc pdf	 
+SOSE5	Sorghastrum secundum	lopsided Indiangrass	doc pdf	 
+SOBI2	Sorghum bicolor	sorghum	 	doc pdf
+SPAM	Sparganium americanum	American bur-reed	 	doc pdf
+SPAN	Sparganium androcladum	branched bur-reed	 	doc pdf
+SPAN2	Sparganium angustifolium	narrowleaf bur-reed	 	doc pdf
+SPER	Sparganium erectum	simplestem bur-reed	 	doc pdf
+SPERS2	Sparganium erectum ssp. stoloniferum	simplestem bur-reed	 	doc pdf
+SPEU	Sparganium eurycarpum	broadfruit bur-reed	 	doc pdf
+SPFL	Sparganium fluctuans	floating bur-reed	 	doc pdf
+SPGL	Sparganium glomeratum	clustered bur-reed	 	doc pdf
+SPHY	Sparganium hyperboreum	northern bur-reed	 	doc pdf
+SPNA	Sparganium natans	small bur-reed	 	doc pdf
+SPAL	Spartina alterniflora	smooth cordgrass	doc pdf	doc pdf
+SPBA	Spartina bakeri	sand cordgrass	doc pdf	 
+SPCY	Spartina cynosuroides	big cordgrass	doc pdf	 
+SPPA	Spartina patens	saltmeadow cordgrass	doc pdf	doc pdf
+SPPE	Spartina pectinata	prairie cordgrass	doc pdf	doc pdf
+SPSP	Spartina spartinae	gulf cordgrass	doc pdf	 
+SPAM2	Sphaeralcea ambigua	desert globemallow	 	doc pdf
+SPCO	Sphaeralcea coccinea	scarlet globemallow	 	doc pdf
+SPGI2	Sphaeralcea gierischii	Gierisch's globemallow	 	doc pdf
+SPGR2	Sphaeralcea grossulariifolia	gooseberryleaf globemallow	 	doc pdf
+SPMU2	Sphaeralcea munroana	Munro's globemallow	 	doc pdf
+SPDO	Spiraea douglasii	rose spirea	doc pdf	 
+SPDI6	Spiranthes diluvialis	Ute lady's tresses	 	doc pdf
+SPAI	Sporobolus airoides	alkali sacaton	doc pdf	doc pdf
+SPCOC2	Sporobolus compositus var. compositus	composite dropseed	doc pdf	doc pdf
+SPCO4	Sporobolus contractus	spike dropseed	doc pdf	 
+SPCR	Sporobolus cryptandrus	sand dropseed	doc pdf	doc pdf
+SPCU	Sporobolus curtissii	Curtis' dropseed	doc pdf	 
+SPFL3	Sporobolus floridanus	Florida dropseed	doc pdf	 
+SPJU	Sporobolus junceus	pineywoods dropseed	doc pdf	doc pdf
+SPTE5	Sporobolus texanus	Texas dropseed	doc pdf	 
+SPVI3	Sporobolus virginicus	seashore dropseed	doc pdf	 
+SPWR2	Sporobolus wrightii	big sacaton	doc pdf	 
+STHE9	Strophostyles helvola	amberique-bean	 	 
+STHE4	Strophostyles helvula		 	doc pdf
+STPE15	Stuckenia pectinata	sago pondweed	doc pdf	doc pdf
+SYAL	Symphoricarpos albus	common snowberry	doc pdf	doc pdf
+SYAS3	Symphyotrichum ascendens	western aster	 	doc pdf
+SYCH4	Symphyotrichum chilense	Pacific aster	doc pdf	 
+SYERE	Symphyotrichum ericoides var. ericoides	white heath aster	 	doc pdf
+SYLAL3	Symphyotrichum laeve var. laeve	smooth blue aster	 	doc pdf
+SYLAL4	Symphyotrichum lanceolatum ssp. lanceolatum var. lanceolatum	white panicle aster	 	doc pdf
+SYNO2	Symphyotrichum novae-angliae	New England aster	doc pdf	doc pdf
+SYNON	Symphyotrichum novi-belgii var. novi-belgii	New York aster	 	doc pdf
+SYOB	Symphyotrichum oblongifolium	aromatic aster	doc pdf	 
+SYPR6	Symphyotrichum prenanthoides	crookedstem aster	doc pdf	 
+SYVI3	Syringa villosa	villous lilac	 	doc pdf
+SYVU	Syringa vulgaris	common lilac	 	doc pdf
+TACA8	Taeniatherum caput-medusae	medusahead	 	doc pdf
+TADI2	Taxodium distichum	bald cypress	doc pdf	doc pdf
+TECA2	Tetradymia canescens	spineless horsebrush	 	doc pdf
+TESP2	Tetradymia spinosa	shortspine horsebrush	 	doc pdf
+THDE	Thalia dealbata	powdery alligator-flag	doc pdf	 
+THMOM3	Thermopsis montana var. montana	mountain goldenbanner	 	doc pdf
+THIN6	Thinopyrum intermedium	intermediate wheatgrass	doc pdf	doc pdf
+THPO7	Thinopyrum ponticum	tall wheatgrass	 	doc pdf
+THOC2	Thuja occidentalis	arborvitae	 	doc pdf
+THPL	Thuja plicata	western redcedar	 	doc pdf
+TIAM	Tilia americana	American basswood	 	doc pdf
+TIAMA	Tilia americana var. americana	American basswood	 	doc pdf
+TIAMC	Tilia americana var. caroliniana	Carolina basswood	 	doc pdf
+TIAMH	Tilia americana var. heterophylla	American basswood	 	doc pdf
+TIUS	Tillandsia usneoides	Spanish moss	 	doc pdf
+TOPAP3	Torreyochloa pallida var. pauciflora	pale false mannagrass	doc pdf	 
+TOAP	Townsendia aprica	Last Chance Townsend daisy	 	doc pdf
+TRVI	Tradescantia virginiana	Virginia spiderwort	 	doc pdf
+TRSE6	Triadica sebifera	Chinese tallow	 	doc pdf
+TRCR9	Trichloris crinita	false Rhodes grass	 	 
+CHCR	Chloris crinita		doc pdf	 
+TRPL3	Trichloris pluriflora	multiflower false Rhodes grass	 	doc pdf
+CHPL2	Chloris pluriflora		doc pdf	 
+TRLA4	Trichostema lanceolatum	vinegarweed	 	doc pdf
+TRAL2	Tridens albescens	white tridens	doc pdf	 
+TRFL2	Tridens flavus	purpletop tridens	doc pdf	 
+TRMU	Tridens muticus	slim tridens	doc pdf	 
+TRST2	Tridens strictus	longspike tridens	 	doc pdf
+TRFR2	Trifolium fragiferum	strawberry clover	 	doc pdf
+TRFR4	Trifolium friscanum	Frisco clover	 	doc pdf
+TRHI4	Trifolium hirtum	rose clover	 	doc pdf
+TRHY	Trifolium hybridum	alsike clover	doc pdf	doc pdf
+TRIN3	Trifolium incarnatum	crimson clover	doc pdf	doc pdf
+TRPR2	Trifolium pratense	red clover	doc pdf	doc pdf
+TRRE3	Trifolium repens	white clover	doc pdf	doc pdf
+TRVE	Trifolium vesiculosum	arrowleaf clover	doc pdf	 
+TRWO	Trifolium wormskioldii	cows clover	 	doc pdf
+TRDA3	Tripsacum dactyloides	eastern gamagrass	doc pdf	doc pdf
+TRHY3	Triteleia hyacinthina	white brodiaea	 	doc pdf
+TRIX	Triteleia ixioides	prettyface	 	doc pdf
+TRLA16	Triteleia laxa	Ithuriel's spear	 	doc pdf
+TSCA	Tsuga canadensis	eastern hemlock	 	doc pdf
+TSHE	Tsuga heterophylla	western hemlock	 	doc pdf
+TYAN	Typha angustifolia	narrowleaf cattail	 	doc pdf
+TYDO	Typha domingensis	southern cattail	 	doc pdf
+TYLA	Typha latifolia	broadleaf cattail	 	doc pdf
+ULPA	Ulmus parvifolia	Chinese elm	 	doc pdf
+ULPU	Ulmus pumila	Siberian elm	doc pdf	doc pdf
+ULRU	Ulmus rubra	slippery elm	 	doc pdf
+UMCA	Umbellularia californica	California laurel	 	doc pdf
+UNPA	Uniola paniculata	seaoats	doc pdf	doc pdf
+URRA	Urochloa ramosa	browntop millet	 	doc pdf
+VACO	Vaccinium corymbosum	highbush blueberry	doc pdf	doc pdf
+VADE	Vaccinium deliciosum	Cascade bilberry	 	doc pdf
+VAME	Vaccinium membranaceum	thinleaf huckleberry	 	doc pdf
+VAOV2	Vaccinium ovatum	California huckleberry	 	doc pdf
+VAOX	Vaccinium oxycoccos	small cranberry	 	doc pdf
+VAPA	Vaccinium parvifolium	red huckleberry	 	doc pdf
+VASC	Vaccinium scoparium	grouse whortleberry	 	doc pdf
+VEDU	Ventenata dubia	North Africa grass	 	doc pdf
+VEHA2	Verbena hastata	swamp verbena	doc pdf	 
+VEVI4	Veronicastrum virginicum	Culver's root	doc pdf	 
+VEZI80	Vetiveria zizanioides	vetivergrass	 	 
+CHZI	Chrysopogon zizanioides		 	doc pdf
+VIAC	Viburnum acerifolium	mapleleaf viburnum	doc pdf	doc pdf
+VIDE	Viburnum dentatum	southern arrowwood	doc pdf	doc pdf
+VIDED4	Viburnum dentatum var. dentatum	southern arrowwood	doc pdf	doc pdf
+VIDEV	Viburnum dentatum var. venosum	southern arrowwood	doc pdf	doc pdf
+VILE	Viburnum lentago	nannyberry	doc pdf	doc pdf
+VIOPA2	Viburnum opulus var. americanum	American cranberrybush	doc pdf	doc pdf
+VIAM	Vicia americana	American vetch	doc pdf	doc pdf
+VILU	Vicia ludoviciana	Louisiana vetch	 	doc pdf
+VIVI	Vicia villosa	winter vetch	doc pdf	 
+VIVIV8	Vicia villosa ssp. varia	winter vetch	 	doc pdf
+VILU3	Vigna luteola	hairypod cowpea	doc pdf	 
+VIUN	Vigna unguiculata	cowpea	 	doc pdf
+VIUNS2	Vigna unguiculata ssp. sesquipedalis	yardlong bean	 	doc pdf
+VIMI2	Vinca minor	common periwinkle	doc pdf	 
+VIAD	Viola adunca	hookedspur violet	 	doc pdf
+VUMY	Vulpia myuros	annual fescue	 	doc pdf
+WAFI	Washingtonia filifera	California fan palm	 	doc pdf
+WEACH	Wedelia acapulcensis var. hispida	hairy wedelia	 	 
+WETE	Wedelia texana		doc pdf	 
+XETE	Xerophyllum tenax	common beargrass	 	doc pdf
+YUFI	Yucca filamentosa	Adam's needle	 	doc pdf
+ZAPU	Zamia pumila	coontie	 	doc pdf
+ZAAM	Zanthoxylum americanum	common pricklyash	 	doc pdf
+ZEME	Zea mexicana	Mexican teosinte	doc pdf	 
+ZIVE	Zigadenus venenosus	meadow deathcamas	 	doc pdf
+ZIAC	Zinnia acerosa	desert zinnia	 	doc pdf
+ZIMI	Zizaniopsis miliacea	giant cutgrass	doc pdf	 
+ZIAU	Zizia aurea	golden zizia	doc pdf	 
+ZOMA	Zostera marina	seawrack	doc pdf

@@ -1,0 +1,23 @@
+原始页面有：
+symbol
+scientific_name
+common_name
+其中common_name有空的
+这三列都在txt里
+C++按行读取symbol 加入table 其他值空
+两个name，按行读取 update之
+可解决
+
+symbol中有：
+symbol
+group
+family
+duration
+growth habit
+native status
+characteristics(有子网页)
+除爬取暂无办法
+
+pdf/doc中有：
+各种列……需要动态提取
+暂无办法，JAVA python可能有库，暂时不知道
