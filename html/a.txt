@@ -1,0 +1,68 @@
+<tr>
+							<td valign="top"><strong>Symbol:</strong></td>
+							<td valign="top">
+									
+										ABAM
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Group:</strong></td>
+							<td valign="top">
+									
+										Gymnosperm
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Family:</strong></td>
+							<td valign="top">
+									
+										Pinaceae
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><strong>Duration:</strong></td>
+							<td valign="top">
+									
+										
+										Perennial<br>
+										
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><a target="_blank"
+								title="Opens in a new window" href="/growth_habits_def.html"><strong>Growth
+										Habit</strong></a><strong>:</strong></td>
+							<td valign="top">
+									
+										
+											Tree<br>
+										
+									
+									
+								</td>
+						</tr>
+						<tr>
+							<td valign="top"><a target="_blank"
+								title="Opens in a new window" href="/native_status_def.html"><strong>Native
+										Status</strong></a><strong>:</strong></td>
+							<td valign="top">
+									
+																			
+									AK &nbsp; N<br>
+																			
+									CAN &nbsp; N<br>
+																			
+									L48 &nbsp; N<br>
+										
+									
+									
+								</td>
+						</tr>
