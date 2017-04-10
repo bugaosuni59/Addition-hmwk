@@ -16,11 +16,12 @@ duration
 growth habit
 native status
 characteristics(有子网页)
-除了characteristic以解决
+除了characteristic已解决
 
 pdf/doc中有：
 各种列……需要动态提取
 
 word读取暂时放弃
 pypdf2放弃
-pdfminer尝试中
+pdfminer尝试
+列名特征："font-family: TimesNewRomanPS-BoldMT; font-size:13px"
