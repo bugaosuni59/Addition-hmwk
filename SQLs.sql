@@ -4295,6 +4295,7 @@ UPDATE plants SET ggroup='Dicot_',family='Cactaceae_',duration='Perennial_',grow
 UPDATE plants SET ggroup='Dicot_',family='Cactaceae_',duration='Perennial_',growth_habit='Shrub_',native_status='L48_N_' WHERE symbol='CYACA2';
 UPDATE plants SET ggroup='Dicot_',family='Cactaceae_',duration='Perennial_',growth_habit='Shrub_',native_status='L48_N_' WHERE symbol='CYACA2';
 
+ALTER TABLE plants RENAME usda_plants;
 
 
 
